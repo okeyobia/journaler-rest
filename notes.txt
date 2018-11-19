@@ -1,0 +1,3 @@
+My first commetents and notes.
+The way to let things started with spring 5 and kotlin.
+we will build a journal app that uses rest as its achitechture.
